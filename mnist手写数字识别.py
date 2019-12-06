@@ -1,4 +1,4 @@
-# yume
+# 基于TensorFlow搭建的三层神经网络
 import tensorflow as tf
 import numpy as np
 from tensorflow.examples.tutorials.mnist import input_data
